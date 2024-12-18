@@ -17,7 +17,7 @@ redirect_from:
 
 ## Publications
 
-[**TITLE**](/files/Senghore.pdf) (with [AUTHOR1](URL1) <br/>
+[**ASSESSING THE ROLE OF ISLAMIC MICROFINANCE: A WOMEN EMPOWERMENT CASE STUDY**](/files/Senghore.pdf) (with [AJA FATOU SENGHORE](URL1) <br/>
 
 ## Works in Progress
 
