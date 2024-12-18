@@ -17,7 +17,7 @@ redirect_from:
 
 ## Publications
 
-[**ASSESSING THE ROLE OF ISLAMIC MICROFINANCE: A WOMEN EMPOWERMENT CASE STUDY**](/files/Senghore.pdf) (with [AJA FATOU SENGHORE](URL1) <br/>
+[**ASSESSING THE ROLE OF ISLAMIC MICROFINANCE: A WOMEN EMPOWERMENT CASE STUDY**](/files/Senghore.pdf) ([AJA FATOU SENGHORE](https://ajafatou.github.io/) <br/>
 
 ## Works in Progress
 
