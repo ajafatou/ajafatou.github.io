@@ -17,7 +17,7 @@ redirect_from:
 
 ## Publications
 
-[**TITLE**](/files/paolobiancone,+EJIF_5_+Senghore (1).pdf) (with [AUTHOR1](URL1) <br/>
+[**TITLE**](/files/Senghore.pdf) (with [AUTHOR1](URL1) <br/>
 
 ## Works in Progress
 
